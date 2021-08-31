@@ -6,13 +6,15 @@
 
 ## Project Vision:
 
-> Have a developed team management system, which runs functional as our only operating system for our entire HR Collective. .
+> Have a developed team management system, which runs functional as our only operating system for our entire HR Collective.
 
 ## Scope Of Project:
 
 >Replace our patchwork of cloud applications, legacy tools, and paper-based processes with one operating system for our entire HR Collective.
 
 # Get Started
+
+>[Figma link](https://www.figma.com/file/Gf3vM0QdblQgU6bHsTWgYT/Ceya-Studio-Management-Studio?node-id=0%3A1) to the designs files
 
 If it is your first time cloning this project to your local machine
 
@@ -43,7 +45,10 @@ Get the SQL scripts in the **`Assets/Scripts`** folder
 * Since we don't have a version control for our database, we will be updating the script when required. Everyone working on the project will be noticed to update the db on their local machines.
 
 
-### Databae Mode Image
+### Database Mode Image
 
 ![This is The Database Image](https://raw.githubusercontent.com/RandyKoziol/CEYA_Project_Management_Software/master/Assets/DatabaseModel/DB_Mode%20V1.png "Database Images")
+
+
+
 
