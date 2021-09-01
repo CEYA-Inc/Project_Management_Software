@@ -1,6 +1,3 @@
-# CEYA_Project_Management_Software
-
-
 # CEYA PROJECT MANAGEMENT TOOL
 
 ## Project Mission:
